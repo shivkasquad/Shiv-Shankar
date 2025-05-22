@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/shivkasquad/Shiv-Shankar/blob/main/github%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Shiv Shankar Pandey</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
